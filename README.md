@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Nadar Ali
 
-<!--
-**Nadar-Hub/Nadar-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst focused on turning raw data into business insights.
 
-Here are some ideas to get you started:
+## Skills
+- **Python** (Pandas, Matplotlib)
+- **SQL** (PostgreSQL)
+- **Power BI** (dashboards, DAX)
+- **Excel**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+**[Superstore Sales Analysis](https://github.com/Nadar-Hub/Superstore-Sales-Analysis)**: end-to-end analysis with Python, SQL and Power BI. Found that discounts above 20% caused about $135K in losses.
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/nadar-ali-aa45513b5)
